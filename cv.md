@@ -1,4 +1,4 @@
-**Толстие Егор Геннадьевич**
+**Толстик Егор Геннадьевич**
 *gmail - tolstik.ega@gmail.com*
 I really want to take this course and gain new knowledge
 Knowledges: HTML - Normal; Css - Normal; JS - Basic; Git - Normal
